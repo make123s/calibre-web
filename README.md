@@ -66,6 +66,7 @@ Calibre-Web 是支持在线阅读的，但只支持 Epub 和 PDF 类型的图书
 首先安装Calibre扩展：
 
 apt-get update
+
 apt-get install calibre -y
 
 安装完成后，在权限管理--->编辑基本配置--->扩展程序配置里,把Calibre 电子书转换器路径 设置为 /usr/bin/ebook-convert 即可（在后台关于里可以查看详细安装信息）
