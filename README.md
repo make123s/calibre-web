@@ -60,8 +60,6 @@ Afterwards you can configure your Calibre-Web instance ([Basic Configuration](ht
 *Username:* admin\
 *Password:* admin123
 
-#### 添加格式转换功能:
-在权限管理 -> 扩展程序配置 -> Calibre 电子书转换器路径 填写 /usr/bin/ebook-convert 保存即可。
 
 ## Requirements
 
